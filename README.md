@@ -1,0 +1,3 @@
+# NYU
+Moctar 
+pwd
